@@ -564,3 +564,8 @@ notebooks:
   code_cells: 8
   environment: torch.dev.gpu
   description: Embedding Projector assignment word2vec PCA UMAP and neighborhood query
+- source: aiml-common/lectures/CV/mit-foundations/chapter-46-motion-estimation/index.ipynb
+  notebook: CV/mit-foundations/chapter-46-motion-estimation/index.ipynb
+  code_cells: 8
+  environment: torch.dev.gpu
+  description: Chapter 46 motion estimation tutorial using synthetic patch matching in PyTorch
